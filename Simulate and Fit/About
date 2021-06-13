@@ -1,0 +1,2 @@
+Analysing real-world data is the end objective. But before that, it is necessary to get a good grasp of the methods that we use to do that.
+So, let's simulate a time series ourselves and fit a model. And let's see how close our techniques take us to the truth.
